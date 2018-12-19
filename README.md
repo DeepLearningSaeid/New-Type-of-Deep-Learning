@@ -6,3 +6,5 @@ here is the source code of experiment 1-3
 this is the link of paper in arxiv
 
 https://arxiv.org/abs/1811.11813
+
+https://www.kaggle.com/saeidalgorithm/any-classification-problems-with-just-one-layer
